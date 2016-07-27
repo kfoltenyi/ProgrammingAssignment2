@@ -1,4 +1,6 @@
-## makeCacheMatrix creates a special matrix object, and then cacheSolve calculates the inverse of the matrix.  If the matrix inverse has already been calculated, it will find it in the cache and return the inverse, and if not, freshly calculate it. 
+## makeCacheMatrix creates a special matrix object, and then cacheSolve calculates the inverse of the matrix.  
+## If the matrix inverse has already been calculated, it will find it in the cache and return the inverse, 
+## and if not, freshly calculate it. 
 
 
 ## This function creates a "matrix" object that can cache the inverse of the matrix
